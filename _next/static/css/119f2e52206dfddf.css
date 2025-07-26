@@ -1,0 +1,1 @@
+.marquee-wrapper{overflow:hidden;position:relative}.marquee{display:flex;animation:marquee 30s linear infinite}.testimonial-card{min-width:300px;max-width:300px;flex-shrink:0}@keyframes marquee{0%{transform:translateX(0)}to{transform:translateX(-50%)}}
